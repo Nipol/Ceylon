@@ -2,12 +2,16 @@
 Ethereum Wiki Platform
 
 ## TODO
-[ ] Users Registry
-[ ] User Reputation System
-[ ] Documents Versioning
-[ ] Discussion platform
-[ ] Media file Embed
-[ ] Donation System
+- [ ] User
+ - [ ] Registry User
+ - [ ] Reputation System
+ - [ ] Donation
+- [ ] Documents
+ - [ ] Versioning
+ - [ ] Markdown Write
+ - [ ] Media file Embed
+- [ ] Discussion platform
+
 
 ## License
 The MIT License (MIT)
